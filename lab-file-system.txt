@@ -258,6 +258,9 @@ $ cd foo/bar/baz
 
 What command did you use?
 ----------
+/Users/student/mtec1003/foo/bar/baz
+ent-v314-008:baz student$ cd ../..
+ent-v314-008:foo student$ pwd
 /Users/student/mtec1003/foo
 
 ==========
@@ -270,9 +273,8 @@ $ rmdir
 26. What command is used to print out your current working directory?
 ----------
 
-$ p$ pwd
-w$
-$ pwd$pwd
+$ pwd
+
 
 ==========
 27. What flag do I pass to ls to print out all files?
